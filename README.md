@@ -11,7 +11,7 @@
 
 ## Código Máquina
 
--El código máquina pesa 446 bytes, y es el proveniente de la tarea de compilación efectuada directamente sobre el Código Fuente, con el que se obtiene posteriormente el Código de Bytes
+- El código máquina pesa 446 bytes, y es el proveniente de la tarea de compilación efectuada directamente sobre el Código Fuente, con el que se obtiene posteriormente el Código de Bytes
 
 ## Tabla de particiones
 
