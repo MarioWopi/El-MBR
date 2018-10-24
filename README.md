@@ -31,3 +31,9 @@
 - Si es el sistema operativo es **Windows**, es **obligatorio** la norma de que una partición primaria sea Active para que el S.O pueda arrancar.
 - Pero si es **Linux** , puede iniciarse sin ninguna particion Active porque puede poner el grub donde sea.
 - El máximo tamaño por partición son de **2T**, como son 4 particiones en total serán 8T.
+
+## El FAT32
+
+- El FAT32 es un sistema de archivos utilizado para dispositivos de alamcenamiento, como un disco, un pen formateado.
+- El FAT32 es de 32 bits por lo cual tiene como máximo 4GB. 
+Por lo cual si tienes por ejemplo un pen formateado y es FAT32, el máximo de memória es de 4GB, y no podras poner una peli de 6GB un sistema operativo de más de 4GB, etc, porque como es fat32 el límite es de 4GB
