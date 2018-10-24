@@ -34,6 +34,6 @@
 
 ## El FAT32
 
-- El FAT32 es un sistema de archivos utilizado para dispositivos de alamcenamiento, como un disco, un pen formateado.
+- El FAT32 es un sistema de archivos utilizado para dispositivos de almacenamiento, como un disco, un pen formateado.
 - El FAT32 es de 32 bits por lo cual tiene como máximo 4GB. 
 Por lo cual si tienes por ejemplo un pen formateado y es FAT32, el máximo de memória es de 4GB, y no podras poner una peli de 6GB un sistema operativo de más de 4GB, etc, porque como es fat32 el límite es de 4GB
